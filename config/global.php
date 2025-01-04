@@ -1,12 +1,12 @@
 <?php 
 //Ip de la pc servidor de base de datos
-define("DB_HOST","localhost");
+define("DB_HOST","sql212.infinityfree.com");
 
 //Nombre de la base de datos
-define("DB_NAME","vinculaciongaby");
+define("DB_NAME","if0_38038558_vinculaciongaby");
 
 //Usuario de la base de datos
-define("DB_USERNAME", "root");
+define("DB_USERNAME", "si0_38038558");
 
 //Contraseña del usuario de la base de datos
 define("DB_PASSWORD","");
