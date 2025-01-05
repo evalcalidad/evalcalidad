@@ -1,6 +1,6 @@
 <?php 
 //Ip de la pc servidor de base de datos
-define("DB_HOST","sql212.byetcluster.com");
+define("DB_HOST","sql212.infinityfree.com");
 
 //Nombre de la base de datos
 define("DB_NAME","if0_38038558_vinculaciongaby");
